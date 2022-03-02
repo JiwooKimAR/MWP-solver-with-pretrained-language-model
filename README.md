@@ -14,5 +14,7 @@ python main.py --use_isc True --beam_size 1 --batch_size 32 --seed 951206 --gpu 
 ```
 
 ## 데이터
+data 폴더 안에 모델을 학습 및 평가시키고자 하는 데이터를 넣어주어야 합니다.  
+한국어 수학 문장형 문제 데이터를 [이곳](https://github.com/JiwooKimAR/Korean-MWP-dataset)에서 찾으실 수 있습니다.
 
 ## 실험 결과
