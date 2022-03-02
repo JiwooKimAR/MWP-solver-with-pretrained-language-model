@@ -8,9 +8,11 @@
 수학 문장형 문제는 자연어로 구성된 서술형 수학 문제에 대해 풀이과정과 해답을 제시하는 문제를 의미합니다.
 
 ## 실행 방법
-
+다음과 같은 코드로 실행할 수 있습니다.
+```
+python main.py --use_isc True --beam_size 1 --batch_size 32 --seed 951206 --gpu 0 --dataset 'Korean_MWPs'
+```
 
 ## 데이터
-
 
 ## 실험 결과
