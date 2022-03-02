@@ -18,3 +18,8 @@ data 폴더 안에 모델을 학습 및 평가시키고자 하는 데이터를 �
 한국어 수학 문장형 문제 데이터를 [이곳](https://github.com/JiwooKimAR/Korean-MWP-dataset)에서 찾으실 수 있습니다.
 
 ## 실험 결과
+위의 '실행 방법'의 코드를 실행하면 다음과 같은 결과를 얻을 수 있습니다.  
+| test_A accuracy | test_B accuracy | validation_accuracy |
+| --------------- | --------------- | ------------------- |
+| 92.5% | 87.7% | 87.6% |
+
